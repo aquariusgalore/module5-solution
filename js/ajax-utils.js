@@ -1,4 +1,3 @@
-ajax-utils.js
 (function (global) {
 
 // Set up a namespace for our utility
